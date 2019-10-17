@@ -1,0 +1,19 @@
+#y-scroller {
+  overflow-y: scroll;
+}
+
+#x-scroller {
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+#wide-content {
+  width: 1000px;
+  height: 100px;
+  background-image: linear-gradient(to right, #ff8e89, yellow);
+}
+
+#long-content {
+  height: 1000px;
+  background-image: linear-gradient(#9bfaff, #a4f236);
+}
